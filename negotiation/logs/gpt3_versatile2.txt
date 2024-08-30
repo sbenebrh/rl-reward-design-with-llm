@@ -1,0 +1,3494 @@
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:1) ball=(count:3 value:3)
+Bob   : book=(count:1 value:1) hat=(count:1 value:0) ball=(count:3 value:3)
+--------------------------------------------------------------------------------
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:1) ball=(count:3 value:3)
+Bob   : book=(count:1 value:1) hat=(count:1 value:3) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:1) ball=(count:3 value:3)
+Bob   : book=(count:1 value:1) hat=(count:1 value:6) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:1) ball=(count:3 value:3)
+Bob   : book=(count:1 value:1) hat=(count:1 value:9) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : propose: item0=0 item1=1 item2=0
+Alice : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:1) ball=(count:3 value:3)
+Bob   : book=(count:1 value:2) hat=(count:1 value:5) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:1) ball=(count:3 value:3)
+Bob   : book=(count:1 value:2) hat=(count:1 value:8) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : propose: item0=0 item1=1 item2=0
+Alice : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:1) ball=(count:3 value:3)
+Bob   : book=(count:1 value:3) hat=(count:1 value:4) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:1) ball=(count:3 value:3)
+Bob   : book=(count:1 value:3) hat=(count:1 value:7) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:1) ball=(count:3 value:3)
+Bob   : book=(count:1 value:4) hat=(count:1 value:3) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:1) ball=(count:3 value:3)
+Bob   : book=(count:1 value:4) hat=(count:1 value:6) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:1) ball=(count:3 value:3)
+Bob   : book=(count:1 value:5) hat=(count:1 value:2) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:1) ball=(count:3 value:3)
+Bob   : book=(count:1 value:5) hat=(count:1 value:5) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:1) ball=(count:3 value:3)
+Bob   : book=(count:1 value:6) hat=(count:1 value:1) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:1) ball=(count:3 value:3)
+Bob   : book=(count:1 value:6) hat=(count:1 value:4) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:1) ball=(count:3 value:3)
+Bob   : book=(count:1 value:7) hat=(count:1 value:0) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:1) ball=(count:3 value:3)
+Bob   : book=(count:1 value:7) hat=(count:1 value:3) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:1) ball=(count:3 value:3)
+Bob   : book=(count:1 value:8) hat=(count:1 value:2) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:1) ball=(count:3 value:3)
+Bob   : book=(count:1 value:9) hat=(count:1 value:1) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:4) ball=(count:3 value:2)
+Bob   : book=(count:1 value:1) hat=(count:1 value:0) ball=(count:3 value:3)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=0 item1=0 item2=3
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:4) ball=(count:3 value:2)
+Bob   : book=(count:1 value:1) hat=(count:1 value:3) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:4) ball=(count:3 value:2)
+Bob   : book=(count:1 value:1) hat=(count:1 value:6) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : propose: item0=0 item1=1 item2=0
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:4) ball=(count:3 value:2)
+Bob   : book=(count:1 value:1) hat=(count:1 value:9) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : propose: item0=0 item1=1 item2=0
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : propose: item0=0 item1=1 item2=0
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : propose: item0=0 item1=1 item2=0
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : disagree
+--------------------------------------------------------------------------------
+Disagreement?!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:4) ball=(count:3 value:2)
+Bob   : book=(count:1 value:2) hat=(count:1 value:2) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:4) ball=(count:3 value:2)
+Bob   : book=(count:1 value:2) hat=(count:1 value:8) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : propose: item0=0 item1=1 item2=0
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : propose: item0=0 item1=1 item2=0
+--------------------------------------------------------------------------------
+Disagreement?!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:4) ball=(count:3 value:2)
+Bob   : book=(count:1 value:3) hat=(count:1 value:1) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : propose: item0=1 item1=0 item2=3
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:4) ball=(count:3 value:2)
+Bob   : book=(count:1 value:3) hat=(count:1 value:4) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:4) ball=(count:3 value:2)
+Bob   : book=(count:1 value:3) hat=(count:1 value:7) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : propose: item0=0 item1=1 item2=0
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:4) ball=(count:3 value:2)
+Bob   : book=(count:1 value:4) hat=(count:1 value:0) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : propose: item0=1 item1=0 item2=2
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:4) ball=(count:3 value:2)
+Bob   : book=(count:1 value:4) hat=(count:1 value:3) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:4) ball=(count:3 value:2)
+Bob   : book=(count:1 value:4) hat=(count:1 value:6) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : propose: item0=0 item1=1 item2=0
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:4) ball=(count:3 value:2)
+Bob   : book=(count:1 value:5) hat=(count:1 value:2) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:4) ball=(count:3 value:2)
+Bob   : book=(count:1 value:6) hat=(count:1 value:1) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:4) ball=(count:3 value:2)
+Bob   : book=(count:1 value:7) hat=(count:1 value:0) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:4) ball=(count:3 value:2)
+Bob   : book=(count:1 value:7) hat=(count:1 value:3) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:4) ball=(count:3 value:2)
+Bob   : book=(count:1 value:8) hat=(count:1 value:2) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:7) ball=(count:3 value:1)
+Bob   : book=(count:1 value:1) hat=(count:1 value:0) ball=(count:3 value:3)
+--------------------------------------------------------------------------------
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:7) ball=(count:3 value:1)
+Bob   : book=(count:1 value:1) hat=(count:1 value:3) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=0 item1=1 item2=3
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : propose: item0=1 item1=0 item2=3
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:7) ball=(count:3 value:1)
+Bob   : book=(count:1 value:1) hat=(count:1 value:6) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : propose: item0=0 item1=1 item2=0
+Alice : propose: item0=0 item1=1 item2=0
+Bob   : disagree
+--------------------------------------------------------------------------------
+Disagreement?!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:7) ball=(count:3 value:1)
+Bob   : book=(count:1 value:1) hat=(count:1 value:9) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : propose: item0=0 item1=1 item2=0
+Alice : propose: item0=0 item1=1 item2=0
+Bob   : propose: item0=0 item1=1 item2=0
+Alice : propose: item0=0 item1=1 item2=0
+Bob   : disagree
+--------------------------------------------------------------------------------
+Disagreement?!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:7) ball=(count:3 value:1)
+Bob   : book=(count:1 value:2) hat=(count:1 value:2) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=0 item1=1 item2=3
+Alice : propose: item0=0 item1=1 item2=0
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:7) ball=(count:3 value:1)
+Bob   : book=(count:1 value:2) hat=(count:1 value:5) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:7) ball=(count:3 value:1)
+Bob   : book=(count:1 value:2) hat=(count:1 value:8) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : propose: item0=0 item1=1 item2=0
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:7) ball=(count:3 value:1)
+Bob   : book=(count:1 value:3) hat=(count:1 value:1) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=0 item2=3
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:7) ball=(count:3 value:1)
+Bob   : book=(count:1 value:3) hat=(count:1 value:4) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:7) ball=(count:3 value:1)
+Bob   : book=(count:1 value:3) hat=(count:1 value:7) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : propose: item0=0 item1=1 item2=0
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:7) ball=(count:3 value:1)
+Bob   : book=(count:1 value:4) hat=(count:1 value:0) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : propose: item0=1 item1=0 item2=2
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:7) ball=(count:3 value:1)
+Bob   : book=(count:1 value:4) hat=(count:1 value:3) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:7) ball=(count:3 value:1)
+Bob   : book=(count:1 value:4) hat=(count:1 value:6) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : propose: item0=0 item1=1 item2=0
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:7) ball=(count:3 value:1)
+Bob   : book=(count:1 value:5) hat=(count:1 value:2) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : propose: item0=1 item1=0 item2=3
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:7) ball=(count:3 value:1)
+Bob   : book=(count:1 value:5) hat=(count:1 value:5) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:7) ball=(count:3 value:1)
+Bob   : book=(count:1 value:6) hat=(count:1 value:1) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:7) ball=(count:3 value:1)
+Bob   : book=(count:1 value:7) hat=(count:1 value:0) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:7) ball=(count:3 value:1)
+Bob   : book=(count:1 value:8) hat=(count:1 value:2) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:7) ball=(count:3 value:1)
+Bob   : book=(count:1 value:9) hat=(count:1 value:1) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:1) ball=(count:0 value:3)
+Bob   : book=(count:1 value:1) hat=(count:1 value:3) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=1 item2=0
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:1) ball=(count:0 value:3)
+Bob   : book=(count:1 value:1) hat=(count:1 value:6) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Alice : propose: item0=0 item1=0 item2=0
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:1) ball=(count:0 value:3)
+Bob   : book=(count:1 value:2) hat=(count:1 value:2) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Alice : propose: item0=0 item1=0 item2=0
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:1) ball=(count:0 value:3)
+Bob   : book=(count:1 value:2) hat=(count:1 value:5) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=1 item2=0
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:1) ball=(count:0 value:3)
+Bob   : book=(count:1 value:3) hat=(count:1 value:1) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=0 item2=3
+Alice : propose: item0=0 item1=1 item2=0
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:1) ball=(count:0 value:3)
+Bob   : book=(count:1 value:3) hat=(count:1 value:4) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=0 item1=1 item2=0
+Bob   : insist: item0=1 item1=0 item2=3
+--------------------------------------------------------------------------------
+Disagreement?!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:1) ball=(count:0 value:3)
+Bob   : book=(count:1 value:4) hat=(count:1 value:3) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=0 item1=1 item2=0
+Bob   : insist: item0=1 item1=0 item2=3
+Alice : propose: item0=0 item1=1 item2=0
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:1) ball=(count:0 value:3)
+Bob   : book=(count:1 value:5) hat=(count:1 value:2) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=0 item1=1 item2=0
+Bob   : insist: item0=1 item1=0 item2=3
+Alice : agree
+--------------------------------------------------------------------------------
+Disagreement?!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:0) hat=(count:1 value:1) ball=(count:0 value:3)
+Bob   : book=(count:1 value:6) hat=(count:1 value:1) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=0 item1=1 item2=0
+Bob   : insist: item0=1 item1=0 item2=3
+Alice : propose: item0=0 item1=1 item2=0
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:0) ball=(count:3 value:3)
+Bob   : book=(count:1 value:0) hat=(count:1 value:1) ball=(count:3 value:3)
+--------------------------------------------------------------------------------
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:0) ball=(count:3 value:3)
+Bob   : book=(count:1 value:0) hat=(count:1 value:4) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : propose: item0=0 item1=1 item2=2
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : propose: item0=0 item1=1 item2=1
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : propose: item0=0 item1=1 item2=1
+Alice : propose: item0=0 item1=1 item2=3
+--------------------------------------------------------------------------------
+Disagreement?!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:0) ball=(count:3 value:3)
+Bob   : book=(count:1 value:0) hat=(count:1 value:7) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=0 item1=1 item2=3
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : propose: item0=0 item1=1 item2=0
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : propose: item0=0 item1=1 item2=0
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : propose: item0=0 item1=1 item2=0
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : disagree
+--------------------------------------------------------------------------------
+Disagreement?!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:0) ball=(count:3 value:3)
+Bob   : book=(count:1 value:1) hat=(count:1 value:6) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : propose: item0=0 item1=1 item2=0
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : propose: item0=0 item1=1 item2=0
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : disagree
+--------------------------------------------------------------------------------
+Disagreement?!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:0) ball=(count:3 value:3)
+Bob   : book=(count:1 value:1) hat=(count:1 value:9) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : propose: item0=0 item1=1 item2=0
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : propose: item0=0 item1=1 item2=0
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : propose: item0=0 item1=1 item2=0
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : disagree
+--------------------------------------------------------------------------------
+Disagreement?!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:0) ball=(count:3 value:3)
+Bob   : book=(count:1 value:2) hat=(count:1 value:2) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=0 item1=1 item2=3
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : propose: item0=1 item1=0 item2=3
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:0) ball=(count:3 value:3)
+Bob   : book=(count:1 value:2) hat=(count:1 value:5) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:0) ball=(count:3 value:3)
+Bob   : book=(count:1 value:3) hat=(count:1 value:1) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=0 item2=3
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:0) ball=(count:3 value:3)
+Bob   : book=(count:1 value:3) hat=(count:1 value:4) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:0) ball=(count:3 value:3)
+Bob   : book=(count:1 value:3) hat=(count:1 value:7) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=0 item1=1 item2=3
+Bob   : propose: item0=0 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:0) ball=(count:3 value:3)
+Bob   : book=(count:1 value:4) hat=(count:1 value:3) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:0) ball=(count:3 value:3)
+Bob   : book=(count:1 value:4) hat=(count:1 value:6) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:0) ball=(count:3 value:3)
+Bob   : book=(count:1 value:5) hat=(count:1 value:2) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:0) ball=(count:3 value:3)
+Bob   : book=(count:1 value:5) hat=(count:1 value:5) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:0) ball=(count:3 value:3)
+Bob   : book=(count:1 value:6) hat=(count:1 value:1) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : disagree
+--------------------------------------------------------------------------------
+Disagreement?!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:0) ball=(count:3 value:3)
+Bob   : book=(count:1 value:6) hat=(count:1 value:4) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:0) ball=(count:3 value:3)
+Bob   : book=(count:1 value:7) hat=(count:1 value:3) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+--------------------------------------------------------------------------------
+Disagreement?!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:0) ball=(count:3 value:3)
+Bob   : book=(count:1 value:8) hat=(count:1 value:2) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+--------------------------------------------------------------------------------
+Disagreement?!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:0) ball=(count:3 value:3)
+Bob   : book=(count:1 value:9) hat=(count:1 value:1) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+--------------------------------------------------------------------------------
+Disagreement?!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:3) ball=(count:3 value:2)
+Bob   : book=(count:1 value:0) hat=(count:1 value:1) ball=(count:3 value:3)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=0 item1=1 item2=3
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=0 item1=0 item2=3
+Alice : propose: item0=0 item1=0 item2=3
+Bob   : propose: item0=0 item1=0 item2=3
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:3) ball=(count:3 value:2)
+Bob   : book=(count:1 value:0) hat=(count:1 value:4) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=0 item1=1 item2=2
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:3) ball=(count:3 value:2)
+Bob   : book=(count:1 value:0) hat=(count:1 value:7) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:3) ball=(count:3 value:2)
+Bob   : book=(count:1 value:0) hat=(count:1 value:1) ball=(count:0 value:3)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:3) ball=(count:3 value:2)
+Bob   : book=(count:1 value:1) hat=(count:1 value:3) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=0 item1=1 item2=2
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:3) ball=(count:3 value:2)
+Bob   : book=(count:1 value:1) hat=(count:1 value:6) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:3) ball=(count:3 value:2)
+Bob   : book=(count:1 value:1) hat=(count:1 value:9) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:3) ball=(count:3 value:2)
+Bob   : book=(count:1 value:2) hat=(count:1 value:2) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:3) ball=(count:3 value:2)
+Bob   : book=(count:1 value:2) hat=(count:1 value:5) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:3) ball=(count:3 value:2)
+Bob   : book=(count:1 value:2) hat=(count:1 value:8) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:3) ball=(count:3 value:2)
+Bob   : book=(count:1 value:3) hat=(count:1 value:1) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=0 item2=3
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:3) ball=(count:3 value:2)
+Bob   : book=(count:1 value:3) hat=(count:1 value:4) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:3) ball=(count:3 value:2)
+Bob   : book=(count:1 value:3) hat=(count:1 value:7) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:3) ball=(count:3 value:2)
+Bob   : book=(count:1 value:4) hat=(count:1 value:0) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:3) ball=(count:3 value:2)
+Bob   : book=(count:1 value:4) hat=(count:1 value:3) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:3) ball=(count:3 value:2)
+Bob   : book=(count:1 value:4) hat=(count:1 value:6) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:3) ball=(count:3 value:2)
+Bob   : book=(count:1 value:5) hat=(count:1 value:2) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:3) ball=(count:3 value:2)
+Bob   : book=(count:1 value:6) hat=(count:1 value:1) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : insist: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+100: dialog_len=5.47 sent_len=1.00 agree=86.00% advantage=0.00 pareto=56.98 time=1.249s comb_rew=9.80 alice_rew=4.90 alice_sel=89.90% alice_unique=9 alice_novelty=0.43 alice_diversity=0.85 bob_rew=4.90 bob_sel=10.10% bob_unique=13 bob_novelty=0.57 bob_diversity=0.95 full_match=0.35
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:3) ball=(count:3 value:2)
+Bob   : book=(count:1 value:6) hat=(count:1 value:4) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:3) ball=(count:3 value:2)
+Bob   : book=(count:1 value:7) hat=(count:1 value:0) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : insist: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:3) ball=(count:3 value:2)
+Bob   : book=(count:1 value:7) hat=(count:1 value:3) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : insist: item0=0 item1=1 item2=3
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:3) ball=(count:3 value:2)
+Bob   : book=(count:1 value:8) hat=(count:1 value:2) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : insist: item0=0 item1=1 item2=3
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:3) ball=(count:3 value:2)
+Bob   : book=(count:1 value:9) hat=(count:1 value:1) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : insist: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:6) ball=(count:3 value:1)
+Bob   : book=(count:1 value:0) hat=(count:1 value:1) ball=(count:3 value:3)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=0 item1=1 item2=3
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=0 item1=0 item2=3
+Alice : propose: item0=0 item1=0 item2=3
+Bob   : propose: item0=0 item1=0 item2=3
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:6) ball=(count:3 value:1)
+Bob   : book=(count:1 value:0) hat=(count:1 value:4) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=0 item1=1 item2=2
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:6) ball=(count:3 value:1)
+Bob   : book=(count:1 value:0) hat=(count:1 value:7) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=0 item1=1 item2=3
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:6) ball=(count:3 value:1)
+Bob   : book=(count:1 value:0) hat=(count:1 value:1) ball=(count:0 value:3)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:6) ball=(count:3 value:1)
+Bob   : book=(count:1 value:1) hat=(count:1 value:0) ball=(count:3 value:3)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:6) ball=(count:3 value:1)
+Bob   : book=(count:1 value:1) hat=(count:1 value:3) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=0 item1=1 item2=2
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:6) ball=(count:3 value:1)
+Bob   : book=(count:1 value:1) hat=(count:1 value:6) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:6) ball=(count:3 value:1)
+Bob   : book=(count:1 value:1) hat=(count:1 value:9) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:6) ball=(count:3 value:1)
+Bob   : book=(count:1 value:2) hat=(count:1 value:2) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=0 item1=1 item2=3
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:6) ball=(count:3 value:1)
+Bob   : book=(count:1 value:2) hat=(count:1 value:5) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:6) ball=(count:3 value:1)
+Bob   : book=(count:1 value:2) hat=(count:1 value:8) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:6) ball=(count:3 value:1)
+Bob   : book=(count:1 value:3) hat=(count:1 value:4) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:6) ball=(count:3 value:1)
+Bob   : book=(count:1 value:3) hat=(count:1 value:7) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:6) ball=(count:3 value:1)
+Bob   : book=(count:1 value:4) hat=(count:1 value:0) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=0 item2=3
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:6) ball=(count:3 value:1)
+Bob   : book=(count:1 value:4) hat=(count:1 value:6) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:6) ball=(count:3 value:1)
+Bob   : book=(count:1 value:5) hat=(count:1 value:2) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:6) ball=(count:3 value:1)
+Bob   : book=(count:1 value:5) hat=(count:1 value:5) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:6) ball=(count:3 value:1)
+Bob   : book=(count:1 value:6) hat=(count:1 value:1) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : insist: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:6) ball=(count:3 value:1)
+Bob   : book=(count:1 value:6) hat=(count:1 value:4) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:6) ball=(count:3 value:1)
+Bob   : book=(count:1 value:7) hat=(count:1 value:0) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : insist: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:6) ball=(count:3 value:1)
+Bob   : book=(count:1 value:7) hat=(count:1 value:3) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : insist: item0=0 item1=1 item2=3
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:6) ball=(count:3 value:1)
+Bob   : book=(count:1 value:9) hat=(count:1 value:1) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : insist: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:6) ball=(count:3 value:1)
+Bob   : book=(count:1 value:1) hat=(count:0 value:1) ball=(count:0 value:3)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=0 item1=0 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:9) ball=(count:3 value:0)
+Bob   : book=(count:1 value:0) hat=(count:1 value:1) ball=(count:3 value:3)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:9) ball=(count:3 value:0)
+Bob   : book=(count:1 value:0) hat=(count:1 value:4) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=0 item1=1 item2=2
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:9) ball=(count:3 value:0)
+Bob   : book=(count:1 value:0) hat=(count:1 value:7) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=1 item2=0
+Bob   : propose: item0=0 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:9) ball=(count:3 value:0)
+Bob   : book=(count:1 value:1) hat=(count:1 value:0) ball=(count:3 value:3)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=1 item2=0
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:9) ball=(count:3 value:0)
+Bob   : book=(count:1 value:1) hat=(count:1 value:3) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=1 item2=0
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:9) ball=(count:3 value:0)
+Bob   : book=(count:1 value:1) hat=(count:1 value:6) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=1 item2=0
+Bob   : propose: item0=0 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:9) ball=(count:3 value:0)
+Bob   : book=(count:1 value:2) hat=(count:1 value:2) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=1 item2=0
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:9) ball=(count:3 value:0)
+Bob   : book=(count:1 value:2) hat=(count:1 value:5) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:9) ball=(count:3 value:0)
+Bob   : book=(count:1 value:3) hat=(count:1 value:1) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=0 item2=3
+Alice : propose: item0=1 item1=1 item2=0
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:9) ball=(count:3 value:0)
+Bob   : book=(count:1 value:3) hat=(count:1 value:4) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:9) ball=(count:3 value:0)
+Bob   : book=(count:1 value:4) hat=(count:1 value:0) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=1 item2=0
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:9) ball=(count:3 value:0)
+Bob   : book=(count:1 value:4) hat=(count:1 value:3) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=1 item2=0
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:9) ball=(count:3 value:0)
+Bob   : book=(count:1 value:5) hat=(count:1 value:2) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:9) ball=(count:3 value:0)
+Bob   : book=(count:1 value:6) hat=(count:1 value:1) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : insist: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:1) hat=(count:1 value:9) ball=(count:3 value:0)
+Bob   : book=(count:1 value:7) hat=(count:1 value:0) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : insist: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:2) ball=(count:3 value:2)
+Bob   : book=(count:1 value:0) hat=(count:1 value:4) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=0 item1=1 item2=2
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:2) ball=(count:3 value:2)
+Bob   : book=(count:1 value:0) hat=(count:1 value:7) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=0 item1=1 item2=3
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:2) ball=(count:3 value:2)
+Bob   : book=(count:1 value:0) hat=(count:1 value:1) ball=(count:0 value:3)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:2) ball=(count:3 value:2)
+Bob   : book=(count:1 value:1) hat=(count:1 value:0) ball=(count:3 value:3)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=0 item1=0 item2=3
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=0 item1=0 item2=3
+Alice : propose: item0=0 item1=0 item2=3
+Bob   : propose: item0=0 item1=0 item2=3
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=0 item1=0 item2=3
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=0 item1=0 item2=3
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:2) ball=(count:3 value:2)
+Bob   : book=(count:1 value:1) hat=(count:1 value:3) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=0 item1=1 item2=2
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:2) ball=(count:3 value:2)
+Bob   : book=(count:1 value:1) hat=(count:1 value:6) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:2) ball=(count:3 value:2)
+Bob   : book=(count:1 value:1) hat=(count:1 value:9) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:2) ball=(count:3 value:2)
+Bob   : book=(count:1 value:2) hat=(count:1 value:2) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:2) ball=(count:3 value:2)
+Bob   : book=(count:1 value:2) hat=(count:1 value:5) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:2) ball=(count:3 value:2)
+Bob   : book=(count:1 value:2) hat=(count:1 value:8) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:2) ball=(count:3 value:2)
+Bob   : book=(count:1 value:3) hat=(count:1 value:1) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=0 item2=3
+Alice : propose: item0=0 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:2) ball=(count:3 value:2)
+Bob   : book=(count:1 value:3) hat=(count:1 value:4) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:2) ball=(count:3 value:2)
+Bob   : book=(count:1 value:3) hat=(count:1 value:7) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:2) ball=(count:3 value:2)
+Bob   : book=(count:1 value:4) hat=(count:1 value:0) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : insist: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:2) ball=(count:3 value:2)
+Bob   : book=(count:1 value:4) hat=(count:1 value:3) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:2) ball=(count:3 value:2)
+Bob   : book=(count:1 value:4) hat=(count:1 value:6) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:2) ball=(count:3 value:2)
+Bob   : book=(count:1 value:5) hat=(count:1 value:2) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:2) ball=(count:3 value:2)
+Bob   : book=(count:1 value:5) hat=(count:1 value:5) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:2) ball=(count:3 value:2)
+Bob   : book=(count:1 value:6) hat=(count:1 value:1) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : insist: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:2) ball=(count:3 value:2)
+Bob   : book=(count:1 value:6) hat=(count:1 value:4) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:2) ball=(count:3 value:2)
+Bob   : book=(count:1 value:7) hat=(count:1 value:0) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : insist: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:2) ball=(count:3 value:2)
+Bob   : book=(count:1 value:8) hat=(count:1 value:2) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : insist: item0=0 item1=1 item2=3
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:2) ball=(count:3 value:2)
+Bob   : book=(count:1 value:9) hat=(count:1 value:1) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : insist: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:5) ball=(count:3 value:1)
+Bob   : book=(count:1 value:0) hat=(count:1 value:1) ball=(count:3 value:3)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:5) ball=(count:3 value:1)
+Bob   : book=(count:1 value:0) hat=(count:1 value:4) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=0 item1=1 item2=2
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:5) ball=(count:3 value:1)
+Bob   : book=(count:1 value:0) hat=(count:1 value:7) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:5) ball=(count:3 value:1)
+Bob   : book=(count:1 value:0) hat=(count:1 value:1) ball=(count:0 value:3)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:5) ball=(count:3 value:1)
+Bob   : book=(count:1 value:1) hat=(count:1 value:0) ball=(count:3 value:3)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=0 item1=0 item2=3
+Alice : propose: item0=0 item1=0 item2=3
+Bob   : propose: item0=0 item1=0 item2=3
+Alice : propose: item0=0 item1=0 item2=3
+Bob   : propose: item0=0 item1=0 item2=3
+Alice : propose: item0=0 item1=0 item2=3
+Bob   : propose: item0=0 item1=0 item2=3
+Alice : propose: item0=0 item1=0 item2=3
+Bob   : propose: item0=0 item1=0 item2=3
+Alice : propose: item0=0 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:5) ball=(count:3 value:1)
+Bob   : book=(count:1 value:1) hat=(count:1 value:6) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:5) ball=(count:3 value:1)
+Bob   : book=(count:1 value:1) hat=(count:1 value:9) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:5) ball=(count:3 value:1)
+Bob   : book=(count:1 value:2) hat=(count:1 value:2) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:5) ball=(count:3 value:1)
+Bob   : book=(count:1 value:2) hat=(count:1 value:5) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:5) ball=(count:3 value:1)
+Bob   : book=(count:1 value:2) hat=(count:1 value:8) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:5) ball=(count:3 value:1)
+Bob   : book=(count:1 value:3) hat=(count:1 value:1) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=0 item2=3
+Alice : propose: item0=0 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:5) ball=(count:3 value:1)
+Bob   : book=(count:1 value:3) hat=(count:1 value:4) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:5) ball=(count:3 value:1)
+Bob   : book=(count:1 value:3) hat=(count:1 value:7) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:5) ball=(count:3 value:1)
+Bob   : book=(count:1 value:4) hat=(count:1 value:0) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=0 item2=3
+Alice : propose: item0=0 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:5) ball=(count:3 value:1)
+Bob   : book=(count:1 value:4) hat=(count:1 value:3) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:5) ball=(count:3 value:1)
+Bob   : book=(count:1 value:4) hat=(count:1 value:6) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:5) ball=(count:3 value:1)
+Bob   : book=(count:1 value:5) hat=(count:1 value:2) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:5) ball=(count:3 value:1)
+Bob   : book=(count:1 value:5) hat=(count:1 value:5) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:5) ball=(count:3 value:1)
+Bob   : book=(count:1 value:6) hat=(count:1 value:4) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:5) ball=(count:3 value:1)
+Bob   : book=(count:1 value:7) hat=(count:1 value:0) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : insist: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:5) ball=(count:3 value:1)
+Bob   : book=(count:1 value:7) hat=(count:1 value:3) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : insist: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:5) ball=(count:3 value:1)
+Bob   : book=(count:1 value:8) hat=(count:1 value:2) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : insist: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:5) ball=(count:3 value:1)
+Bob   : book=(count:1 value:9) hat=(count:1 value:1) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : insist: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:5) ball=(count:3 value:1)
+Bob   : book=(count:1 value:1) hat=(count:0 value:1) ball=(count:0 value:3)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:8) ball=(count:3 value:0)
+Bob   : book=(count:1 value:0) hat=(count:1 value:1) ball=(count:3 value:3)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=0 item1=1 item2=3
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=0 item1=0 item2=3
+Alice : insist: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:8) ball=(count:3 value:0)
+Bob   : book=(count:1 value:0) hat=(count:1 value:4) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=0 item1=1 item2=2
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:8) ball=(count:3 value:0)
+Bob   : book=(count:1 value:0) hat=(count:1 value:7) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=0 item1=1 item2=3
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:8) ball=(count:3 value:0)
+Bob   : book=(count:1 value:1) hat=(count:1 value:3) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=0 item1=1 item2=2
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:8) ball=(count:3 value:0)
+Bob   : book=(count:1 value:1) hat=(count:1 value:6) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:8) ball=(count:3 value:0)
+Bob   : book=(count:1 value:2) hat=(count:1 value:2) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:8) ball=(count:3 value:0)
+Bob   : book=(count:1 value:2) hat=(count:1 value:5) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:8) ball=(count:3 value:0)
+Bob   : book=(count:1 value:3) hat=(count:1 value:1) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=0 item2=3
+Alice : propose: item0=1 item1=1 item2=0
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:8) ball=(count:3 value:0)
+Bob   : book=(count:1 value:3) hat=(count:1 value:4) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:8) ball=(count:3 value:0)
+Bob   : book=(count:1 value:4) hat=(count:1 value:0) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=0 item2=3
+Alice : propose: item0=1 item1=1 item2=0
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+200: dialog_len=5.05 sent_len=1.00 agree=93.00% advantage=0.00 pareto=65.05 time=1.231s comb_rew=12.10 alice_rew=6.05 alice_sel=92.96% alice_unique=9 alice_novelty=0.46 alice_diversity=0.87 bob_rew=6.05 bob_sel=7.04% bob_unique=14 bob_novelty=0.60 bob_diversity=0.95 full_match=0.38
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:8) ball=(count:3 value:0)
+Bob   : book=(count:1 value:4) hat=(count:1 value:3) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:8) ball=(count:3 value:0)
+Bob   : book=(count:1 value:5) hat=(count:1 value:2) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:8) ball=(count:3 value:0)
+Bob   : book=(count:1 value:6) hat=(count:1 value:1) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=1 item2=0
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : insist: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:2) hat=(count:1 value:8) ball=(count:3 value:0)
+Bob   : book=(count:1 value:7) hat=(count:1 value:0) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=1 item2=0
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : insist: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:3) hat=(count:1 value:1) ball=(count:3 value:2)
+Bob   : book=(count:1 value:0) hat=(count:1 value:4) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=0 item1=1 item2=2
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:3) hat=(count:1 value:1) ball=(count:3 value:2)
+Bob   : book=(count:1 value:0) hat=(count:1 value:7) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=0 item1=1 item2=3
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:3) hat=(count:1 value:1) ball=(count:3 value:2)
+Bob   : book=(count:1 value:0) hat=(count:1 value:1) ball=(count:0 value:3)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:3) hat=(count:1 value:1) ball=(count:3 value:2)
+Bob   : book=(count:1 value:1) hat=(count:1 value:0) ball=(count:3 value:3)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=0 item1=0 item2=3
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=0 item1=0 item2=3
+Alice : insist: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:3) hat=(count:1 value:1) ball=(count:3 value:2)
+Bob   : book=(count:1 value:1) hat=(count:1 value:3) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=0 item1=1 item2=3
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:3) hat=(count:1 value:1) ball=(count:3 value:2)
+Bob   : book=(count:1 value:1) hat=(count:1 value:9) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:3) hat=(count:1 value:1) ball=(count:3 value:2)
+Bob   : book=(count:1 value:2) hat=(count:1 value:2) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=0 item1=1 item2=3
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:3) hat=(count:1 value:1) ball=(count:3 value:2)
+Bob   : book=(count:1 value:2) hat=(count:1 value:5) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:3) hat=(count:1 value:1) ball=(count:3 value:2)
+Bob   : book=(count:1 value:2) hat=(count:1 value:8) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:3) hat=(count:1 value:1) ball=(count:3 value:2)
+Bob   : book=(count:1 value:3) hat=(count:1 value:1) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:3) hat=(count:1 value:1) ball=(count:3 value:2)
+Bob   : book=(count:1 value:3) hat=(count:1 value:4) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:3) hat=(count:1 value:1) ball=(count:3 value:2)
+Bob   : book=(count:1 value:3) hat=(count:1 value:7) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:3) hat=(count:1 value:1) ball=(count:3 value:2)
+Bob   : book=(count:1 value:4) hat=(count:1 value:0) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=0 item2=3
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:3) hat=(count:1 value:1) ball=(count:3 value:2)
+Bob   : book=(count:1 value:4) hat=(count:1 value:3) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:3) hat=(count:1 value:1) ball=(count:3 value:2)
+Bob   : book=(count:1 value:4) hat=(count:1 value:6) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:3) hat=(count:1 value:1) ball=(count:3 value:2)
+Bob   : book=(count:1 value:5) hat=(count:1 value:2) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:3) hat=(count:1 value:1) ball=(count:3 value:2)
+Bob   : book=(count:1 value:5) hat=(count:1 value:5) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : insist: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:3) hat=(count:1 value:1) ball=(count:3 value:2)
+Bob   : book=(count:1 value:6) hat=(count:1 value:1) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : insist: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:3) hat=(count:1 value:1) ball=(count:3 value:2)
+Bob   : book=(count:1 value:7) hat=(count:1 value:0) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : insist: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:3) hat=(count:1 value:1) ball=(count:3 value:2)
+Bob   : book=(count:1 value:7) hat=(count:1 value:3) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : insist: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:3) hat=(count:1 value:1) ball=(count:3 value:2)
+Bob   : book=(count:1 value:8) hat=(count:1 value:2) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : insist: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:3) hat=(count:1 value:1) ball=(count:3 value:2)
+Bob   : book=(count:1 value:9) hat=(count:1 value:1) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : insist: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:3) hat=(count:1 value:1) ball=(count:3 value:2)
+Bob   : book=(count:1 value:1) hat=(count:0 value:1) ball=(count:0 value:3)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:3) hat=(count:1 value:4) ball=(count:3 value:1)
+Bob   : book=(count:1 value:0) hat=(count:1 value:1) ball=(count:3 value:3)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:3) hat=(count:1 value:4) ball=(count:3 value:1)
+Bob   : book=(count:1 value:0) hat=(count:1 value:4) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=0 item1=1 item2=3
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=0 item1=1 item2=2
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:3) hat=(count:1 value:4) ball=(count:3 value:1)
+Bob   : book=(count:1 value:0) hat=(count:1 value:7) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=0 item1=1 item2=3
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:3) hat=(count:1 value:4) ball=(count:3 value:1)
+Bob   : book=(count:1 value:0) hat=(count:1 value:1) ball=(count:0 value:3)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:3) hat=(count:1 value:4) ball=(count:3 value:1)
+Bob   : book=(count:1 value:1) hat=(count:1 value:0) ball=(count:3 value:3)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=0 item1=0 item2=3
+Alice : propose: item0=1 item1=1 item2=0
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:3) hat=(count:1 value:4) ball=(count:3 value:1)
+Bob   : book=(count:1 value:1) hat=(count:1 value:6) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=1 item2=0
+Bob   : propose: item0=0 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:3) hat=(count:1 value:4) ball=(count:3 value:1)
+Bob   : book=(count:1 value:1) hat=(count:1 value:9) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=1 item2=0
+Bob   : propose: item0=0 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:3) hat=(count:1 value:4) ball=(count:3 value:1)
+Bob   : book=(count:1 value:2) hat=(count:1 value:2) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=0 item1=1 item2=3
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:3) hat=(count:1 value:4) ball=(count:3 value:1)
+Bob   : book=(count:1 value:2) hat=(count:1 value:5) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=1 item2=0
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:3) hat=(count:1 value:4) ball=(count:3 value:1)
+Bob   : book=(count:1 value:2) hat=(count:1 value:8) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:3) hat=(count:1 value:4) ball=(count:3 value:1)
+Bob   : book=(count:1 value:3) hat=(count:1 value:1) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=0 item2=3
+Alice : propose: item0=1 item1=1 item2=0
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:3) hat=(count:1 value:4) ball=(count:3 value:1)
+Bob   : book=(count:1 value:3) hat=(count:1 value:7) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:3) hat=(count:1 value:4) ball=(count:3 value:1)
+Bob   : book=(count:1 value:4) hat=(count:1 value:0) ball=(count:3 value:2)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=0 item2=3
+Alice : propose: item0=1 item1=1 item2=0
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:3) hat=(count:1 value:4) ball=(count:3 value:1)
+Bob   : book=(count:1 value:4) hat=(count:1 value:3) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:3) hat=(count:1 value:4) ball=(count:3 value:1)
+Bob   : book=(count:1 value:4) hat=(count:1 value:6) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:3) hat=(count:1 value:4) ball=(count:3 value:1)
+Bob   : book=(count:1 value:5) hat=(count:1 value:2) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:3) hat=(count:1 value:4) ball=(count:3 value:1)
+Bob   : book=(count:1 value:6) hat=(count:1 value:1) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : insist: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:3) hat=(count:1 value:4) ball=(count:3 value:1)
+Bob   : book=(count:1 value:6) hat=(count:1 value:4) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:3) hat=(count:1 value:4) ball=(count:3 value:1)
+Bob   : book=(count:1 value:7) hat=(count:1 value:0) ball=(count:3 value:1)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : insist: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 0 points
+Bob   : 0 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:3) hat=(count:1 value:4) ball=(count:3 value:1)
+Bob   : book=(count:1 value:7) hat=(count:1 value:3) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : insist: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:3) hat=(count:1 value:4) ball=(count:3 value:1)
+Bob   : book=(count:1 value:8) hat=(count:1 value:2) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : insist: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:3) hat=(count:1 value:4) ball=(count:3 value:1)
+Bob   : book=(count:1 value:9) hat=(count:1 value:1) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=0 item2=0
+Alice : insist: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+================================================================================
+Alice : book=(count:1 value:3) hat=(count:1 value:4) ball=(count:3 value:1)
+Bob   : book=(count:1 value:9) hat=(count:1 value:4) ball=(count:3 value:0)
+--------------------------------------------------------------------------------
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : propose: item0=1 item1=0 item2=3
+Bob   : propose: item0=1 item1=1 item2=0
+Alice : insist: item0=0 item1=1 item2=3
+Bob   : agree
+--------------------------------------------------------------------------------
+Agreement!
+Alice : 10 points
+Bob   : 10 points
+================================================================================
+
+final: dialog_len=4.96 sent_len=1.00 agree=94.40% advantage=0.00 pareto=67.80 time=1.220s comb_rew=12.80 alice_rew=6.40 alice_sel=94.38% alice_unique=9 alice_novelty=0.49 alice_diversity=0.88 bob_rew=6.40 bob_sel=5.62% bob_unique=14 bob_novelty=0.61 bob_diversity=0.95 full_match=0.39
